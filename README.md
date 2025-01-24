@@ -29,21 +29,21 @@ Una aplicación interactiva y sencilla que permite a los usuarios agregar nombre
 
 ## Uso  
 
-Ingresa un nombre válido en el campo de texto.
+- Ingresa un nombre válido en el campo de texto.
 
-Haz clic en el botón Añadir para agregar el nombre a la lista.
+- Haz clic en el botón Añadir para agregar el nombre a la lista.
 
-Repite el proceso para todos los nombres que deseas incluir en el sorteo.
+- Repite el proceso para todos los nombres que deseas incluir en el sorteo.
 
-Una vez agregados los nombres, haz clic en el botón Sortear amigo para seleccionar al azar un "amigo secreto".
+- Una vez agregados los nombres, haz clic en el botón Sortear amigo para seleccionar al azar un "amigo secreto".
 
-El nombre del "amigo secreto" aparecerá en pantalla.
+- El nombre del "amigo secreto" aparecerá en pantalla.
 
 
 
 ## Pantalla inicial 
 
-Muestra el campo de texto y el botón para añadir nombres además también se mostrará un botón para poder sortear para mostrar un nombre aleatorio
+- Muestra el campo de texto y el botón para añadir nombres además también se mostrará un botón para poder sortear para mostrar un nombre aleatorio
 
 
 
