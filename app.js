@@ -13,3 +13,10 @@ function agregarAmigo() {
   }
   mostrarListaAmigos(listaAmigoss);
 }
+
+function mostrarListaAmigos(ulAmigos) {
+    let elemetoHTML = document.getElementById("listaAmigos");
+    elemetoHTML.innerHTML = "";
+    let nombres = ulAmigos.join(", ");
+    elemetoHTML.textContent = nombres;
+  }
