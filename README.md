@@ -16,18 +16,18 @@ Una aplicación interactiva y sencilla que permite a los usuarios agregar nombre
 
 ## Instalación
 
-1. Clona el repositorio desde el siguiente enlace:
+ Clona el repositorio desde el siguiente enlace:
    ```bash
-   git clone [https://github.com/nahuel-11/Challenge-Amigo-Secreto-Alura.git]
+   git clone https://github.com/nahuel-11/Challenge-Amigo-Secreto-Alura.git
 
 
-2. Abre la carpeta del proyecto en tu editor de código favorito (como Visual Studio Code).
+ Abre la carpeta del proyecto en tu editor de código favorito (como Visual Studio Code).
 
-3. Instala la extensión Live Server si aún no la tienes instalada.
+ Instala la extensión Live Server si aún no la tienes instalada.
 
-4. Haz clic derecho en el archivo index.html y selecciona Open with Live Server para ejecutar el proyecto.
+ Haz clic derecho en el archivo index.html y selecciona Open with Live Server para ejecutar el proyecto.
 
-- Uso - 
+## Uso  
 
 Ingresa un nombre válido en el campo de texto.
 
@@ -41,13 +41,13 @@ El nombre del "amigo secreto" aparecerá en pantalla.
 
 
 
-- Pantalla inicial -
+## Pantalla inicial 
 
 Muestra el campo de texto y el botón para añadir nombres además también se mostrará un botón para poder sortear para mostrar un nombre aleatorio
 
 
 
-- Notas adicionales -
+## Notas adicionales 
 
 Asegúrate de ingresar nombres válidos. No se aceptan números, caracteres especiales ni campos vacíos.
 
