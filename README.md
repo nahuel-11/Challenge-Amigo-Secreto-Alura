@@ -18,7 +18,7 @@ Una aplicación interactiva y sencilla que permite a los usuarios agregar nombre
 
  Clona el repositorio desde el siguiente enlace:
    ```bash
-   git clone https://github.com/nahuel-11/Challenge-Amigo-Secreto-Alura.git
+   git clone [https://github.com/nahuel-11/Challenge-Amigo-Secreto-Alura.git]
 
 
  Abre la carpeta del proyecto en tu editor de código favorito (como Visual Studio Code).
