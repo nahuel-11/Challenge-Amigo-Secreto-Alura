@@ -16,16 +16,16 @@ Una aplicación interactiva y sencilla que permite a los usuarios agregar nombre
 
 ## Instalación
 
- Clona el repositorio desde el siguiente enlace:
+1. Clona el repositorio desde el siguiente enlace:
    ```bash
    git clone [https://github.com/nahuel-11/Challenge-Amigo-Secreto-Alura.git]
 
 
- Abre la carpeta del proyecto en tu editor de código favorito (como Visual Studio Code).
+2. Abre la carpeta del proyecto en tu editor de código favorito (como Visual Studio Code).
 
- Instala la extensión Live Server si aún no la tienes instalada.
+3. Instala la extensión Live Server si aún no la tienes instalada.
 
- Haz clic derecho en el archivo index.html y selecciona Open with Live Server para ejecutar el proyecto.
+4. Haz clic derecho en el archivo index.html y selecciona Open with Live Server para ejecutar el proyecto.
 
 ## Uso  
 
