@@ -31,3 +31,8 @@ function sortearAmigo() {
   let amigoSeleccionado = listaAmigoss[indiceAleatorio];
   mostrarResultado(amigoSeleccionado);
 }
+
+function mostrarResultado(amigo) {
+  let resultadoHTML = document.getElementById("listaAmigos");
+  resultadoHTML.innerHTML = `<li>El amigo secreto es: ${amigo}</li>`;
+}
